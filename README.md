@@ -35,3 +35,5 @@ It has been said that astronomy is a humbling and character-building experience.
 
   
      
+Reality is nothing 0
+With a twist ∞
