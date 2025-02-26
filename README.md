@@ -37,3 +37,5 @@ It has been said that astronomy is a humbling and character-building experience.
      
 Reality is nothing 0
 With a twist ∞
+
+"The aim of theory really is, to a great extent, that of systematically organizing past experience in such a way that the next generation, our students and their students and so on, will be able to absorb the essential aspects in as painless a way as possible, and this is the only way in which you can go on cumulatively building up any kind of scientific activity without eventually coming to a dead end." -M.F. Atiyah, “How research is carried out”
