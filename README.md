@@ -1,7 +1,5 @@
 # **It's Not Hard, It's Just New**
 
-![It's not hard, it's just new](<Images/not hard.jpg>)
-
 ### *In honor of Mary McLeod Bethune, who fought fire with the flame of liberty that education affords.*
 
 > *"I leave you a thirst for education. Knowledge is the prime need of the hour."*
