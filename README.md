@@ -1,5 +1,9 @@
 ![It's not hard, it's just new](<Images/not hard.jpg>)
 
+In honor of Mary McLeod Bethune, who fought fire with the flame of liberty that education affords.
+
+"I leave you a thirst for education. Knowledge is the prime need of the hour." 
+
 We see education as a passport—a dialogue that prepares today’s dreamers for tomorrow’s challenges, ensuring that what is essential is felt deep in the heart of every learner. In the spirit of Mandela’s declaration that education is the most powerful weapon to change the world, we stand united against ignorance, our most formidable adversary. We recognize that an unexamined life not only stifles potential but also imposes unnecessary constraints on our future generations.
 
 By truly knowing ourselves and confronting the forces of ignorance, we transform each lesson into a strategic act of empowerment—a conversation that dismantles barriers and redefines the very measures of intelligence. We are committed to elevating the quality and expediency of our educational vehicles, forging a legacy where rigorous inquiry and heartfelt dialogue merge to unlock untapped possibilities.
