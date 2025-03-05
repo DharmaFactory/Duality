@@ -8,6 +8,9 @@
 
 The **Duality** repository ([GitHub](https://github.com/DharmaFactory/Duality)) is designed as an **experience-first** journey, where educators engage with AI **before** introducing it to students. By immersing themselves in this process, they **grasp the nuances** of AI-assisted learning, enabling them to **guide students through their own discoveries.**
 
+A great place to start is the proposals say lucky [7](Proposals
+/7.md) for starters
+
 
 
 Additionally, the **Singularity** project ([GitHub](https://github.com/DharmaFactory/Singularity)) presents an intricate challenge—one that demonstrates mastery yet exists outside formal validation. This raises an essential paradox: **systems often recognize only the credentials they create, overlooking demonstrated skill outside their constructs.** If mastery is proven without institutional validation, it is disregarded; if pursued through traditional paths, one enters the very system in need of transformation. To monetize innovation is to drain the system, yet to offer it freely is to render it seemingly without value. **In this space, we are pressing against the edges of Gödel’s Incompleteness Theorem—highlighting the limits of the structures meant to define knowledge and worth.**
