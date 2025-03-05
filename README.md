@@ -8,8 +8,7 @@
 
 The **Duality** repository ([GitHub](https://github.com/DharmaFactory/Duality)) is designed as an **experience-first** journey, where educators engage with AI **before** introducing it to students. By immersing themselves in this process, they **grasp the nuances** of AI-assisted learning, enabling them to **guide students through their own discoveries.**
 
-A great place to start is the proposals say lucky [7](Proposals
-/7.md) for starters
+A great place to start is the proposals say lucky [7](Proposals/7.md) for starters
 
 
 
