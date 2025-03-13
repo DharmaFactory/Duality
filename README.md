@@ -4,6 +4,9 @@
 
 > *"I leave you a thirst for education. Knowledge is the prime need of the hour."*
 
+Interactive pitchdeck: https://x.com/i/grok/share/OGvRUxSoZQ2W4bsmf0MAyYYwH
+
+
 ## The Duality Project: A Learning Experience for Educators & Students
 
 The **Duality** repository ([GitHub](https://github.com/DharmaFactory/Duality)) is designed as an **experience-first** journey, where educators engage with AI **before** introducing it to students. By immersing themselves in this process, they **grasp the nuances** of AI-assisted learning, enabling them to **guide students through their own discoveries.**
