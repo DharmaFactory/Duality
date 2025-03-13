@@ -2,8 +2,11 @@
 ### _Active Alignment Engine_  
 
 > **"We do not wait for the future. We forge it."**  
+### *In honor of Mary McLeod Bethune, who fought fire with the flame of liberty that education affords.*
 
----
+> *"I leave you a thirst for education. Knowledge is the prime need of the hour."*
+
+> Interactive pitch deck: https://x.com/i/grok/share/OGvRUxSoZQ2W4bsmf0MAyYYwH
 
 ## **01. MISSION — ACTION OVER THEORY**  
 
