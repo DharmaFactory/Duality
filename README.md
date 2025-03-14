@@ -2,7 +2,7 @@
 ### _Active Alignment Engine_  
 
 > **"We do not wait for the future. We forge it."**  
-### *In honor of Mary McLeod Bethune, who fought fire with the flame of liberty that education affords.*
+### *In honor of Dr. Mary McLeod Bethune, who fought fire with the flame of liberty that education affords.*
 
 > *"I leave you a thirst for education. Knowledge is the prime need of the hour."*
 
