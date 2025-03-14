@@ -122,4 +122,6 @@
 - What is the **next smallest step**?  
 - How will you **know you lived well**?
 
----
+---   
+
+These seem impressive. Are they really? Are they simple?
